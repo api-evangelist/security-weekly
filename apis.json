@@ -1,0 +1,44 @@
+{
+    "name": "Security Weekly",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/SecurityWeekly-1000x1000-nourl.png",
+    "tags": [
+        "have api",
+        "security blogs"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/security-weekly\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Security Weekly",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/SecurityWeekly-1000x1000-nourl.png",
+            "humanURL": "http:\/\/securityweekly.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/security-weekly-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/securityweekly\/Lviv"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/securityweekly"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/securityweekly.com\/"
+        }
+    ]
+}
